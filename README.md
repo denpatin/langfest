@@ -5,8 +5,8 @@
 
 ### Владикавказ (25.11)
 
-* «Венгерский язык»
-* «Японский язык»
+* «Венгерский язык»: [слайды](https://dpat.in/vladikavkaz19/hungarian), [материалы](handouts/vladikavkaz19-hungarian.pdf)
+* «Японский язык»: [слайды](https://dpat.in/vladikavkaz19/japanese), [материалы](handouts/vladikavkaz19-japanese.pdf)
 
 ### Санкт-Петербург (27.10)
 
